@@ -1,0 +1,9 @@
+.nav-logo{
+  height: 3.5rem;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+navbar-dark {
+  background-color: var(--dark-cream) !important;
+}
